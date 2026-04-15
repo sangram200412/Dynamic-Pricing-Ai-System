@@ -1,0 +1,26 @@
+# ── Core Framework ──
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+
+# ── Vision AI & LLM ──
+openai
+google-genai
+pillow
+
+# ── Scraping (httpx + BS4) ──
+httpx
+beautifulsoup4
+lxml
+curl-cffi
+
+# ── Scraping (Playwright for Flipkart) ──
+playwright
+
+# ── ML ──
+numpy
+scikit-learn
+
+# ── Utilities ──
+sse-starlette

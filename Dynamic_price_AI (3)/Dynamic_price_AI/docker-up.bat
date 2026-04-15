@@ -1,0 +1,3 @@
+@echo off
+echo [PriceScope] Booting Docker Infrastructure...
+docker compose up --build

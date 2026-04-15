@@ -1,0 +1,8 @@
+@import "./App.css";
+
+/* Resetting to the user's high-fidelity master style */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #020408;
+}
